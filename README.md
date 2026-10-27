@@ -199,11 +199,11 @@ Generated report names may vary as the project evolves. The raw dataset should n
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-activity-forecasting.git
+git clone https://github.com/Rauof-Qadir/financial-activity-forecasting.git
 cd financial-activity-forecasting
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ### 2. Create a virtual environment
 
