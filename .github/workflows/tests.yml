@@ -43,13 +43,13 @@ jobs:
           rows = []
           for day in range(1, 32):
               count = (
-    1000
-    + day * 37
-    + (day % 5) * 23
-    + (day % 3) * 11
-    + ((day * day) % 17) * 19
-    + ((day * 7) % 11) * 31
-)
+                        1000
+                           + day * 37
+                           + (day % 5) * 23
+                           + (day % 3) * 11
+                           + ((day * day) % 17) * 19
+                           + ((day * 7) % 11) * 31
+          )
               amount = float(count * (120 + day))
 
               rows.append({
