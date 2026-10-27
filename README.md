@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pytest-Test%20Suite-0A9EDC?logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Data-Simulated-6B7280" alt="Simulated data" />
-  [![Tests](https://github.com/YOUR_USERNAME/financial-activity-forecasting/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/financial-activity-forecasting/actions/workflows/tests.yml)
+  [![Tests](https://github.com/Rauof-Qadir/financial-activity-forecasting/actions/workflows/tests.yml/badge.svg)](https://github.com/Rauof-Qadir/financial-activity-forecasting/actions/workflows/tests.yml)
 </p>
 
 
@@ -300,7 +300,6 @@ Software Engineer | Aspiring Data Scientist
 
 Interested in Data Science, Financial Analytics, Machine Learning, and building reproducible analytical systems.
 
-Connect: [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
 
 ---
 
