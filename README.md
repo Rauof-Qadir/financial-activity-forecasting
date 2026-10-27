@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pytest-Test%20Suite-0A9EDC?logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Data-Simulated-6B7280" alt="Simulated data" />
-  [![Tests](https://github.com/Rauof-Qadir/financial-activity-forecasting/actions/workflows/tests.yml/badge.svg)](https://github.com/Rauof-Qadir/financial-activity-forecasting/actions/workflows/tests.yml)
 </p>
 
 
@@ -24,6 +23,14 @@ Financial institutions need to understand transaction activity, anticipate opera
 This project develops an end-to-end analytical workflow using simulated financial transaction data. It audits the source data, builds daily activity series, compares forecasting baselines using chronological evaluation, analyzes forecast errors, and generates monitoring outputs.
 
 The goal is not simply to produce a forecast. It is to create a **reproducible, explainable, and decision-oriented analytics system**.
+
+## Dashboard
+
+[!overview](docs/1.png)
+[!risks](docs/2.png)
+[!models](docs/3.png)
+
+
 
 ## Business Problem
 
