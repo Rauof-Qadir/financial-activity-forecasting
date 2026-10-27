@@ -26,9 +26,9 @@ The goal is not simply to produce a forecast. It is to create a **reproducible, 
 
 ## Dashboard
 
-[!overview](docs/1.png)
-[!risks](docs/2.png)
-[!models](docs/3.png)
+![Overview](docs/1.png)
+![Risks](docs/2.png)
+![Models](docs/3.png)
 
 
 
